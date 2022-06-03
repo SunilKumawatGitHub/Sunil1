@@ -23,8 +23,3 @@ Oodoo
 "Philip Jedediah"
 
 
-d::c
-
-email - Sunil.kumawat@blinktrustai.com
-
-
